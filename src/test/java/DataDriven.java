@@ -20,6 +20,9 @@ public class DataDriven {
 	
 public static void main(String[] args) throws IOException
 {
+System.out.println("anisha");
+	System.out.println("hello");
+	System.out.println("jello");
 	
 	System.out.println("hello");
 	System.out.println("jello");
@@ -35,6 +38,7 @@ public static void main(String[] args) throws IOException
 	
 	System.out.println("faisal");
 	
+	System.out.println("arman");
 		
 FileInputStream fis=new FileInputStream("D:\\Book1.xlsx");
 XSSFWorkbook workbook=new XSSFWorkbook(fis);
